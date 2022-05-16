@@ -12,7 +12,7 @@ Olá, Eu sou o Rodolfo Favarim.
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="130" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="140" width="130" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
 </div>
 
