@@ -2,7 +2,7 @@ Olá, Eu sou o Rodolfo Favarim.
 
 - 🔭 Atualmente estou à procura de um emprego/estágio
 - 🌱 Estudando Python
-- 💬 Contate-me: rodolfofavarim@gmail.com
+- 💬 rodolfofavarim@gmail.com
 
 
 <div align="center">
