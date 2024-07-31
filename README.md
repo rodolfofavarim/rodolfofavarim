@@ -1,6 +1,6 @@
 Olá, Eu sou o Rodolfo Favarim.
 
-- 🔭 Atualmente estou à procura de um emprego/estágio
+- 🔭 Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Python
 - 💬 rodolfofavarim@gmail.com
 
